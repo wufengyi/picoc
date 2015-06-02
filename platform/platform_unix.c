@@ -2,7 +2,7 @@
 #include "../interpreter.h"
 
 #ifdef USE_READLINE
-#include <readline/readline.h>
+/*#include <readline/readline.h>*/
 #include <readline/history.h>
 #endif
 
